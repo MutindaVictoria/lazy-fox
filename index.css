@@ -1,0 +1,7 @@
+.outer-div{
+    border: dotted yellowgreen;
+}
+.inner-div{
+    padding: 20px;
+    margin: 5%;
+    border: solid red;}
